@@ -9,6 +9,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        
+        // change for responsable
+        
         hotfix();
     }
 
@@ -16,7 +19,6 @@ public class App
 		// TODO Auto-generated method stub
 		
 	}
-    
     
     
 }
